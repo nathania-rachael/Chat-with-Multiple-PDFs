@@ -21,7 +21,7 @@ A **Streamlit-based AI-powered chatbot** that allows users to upload multiple PD
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-repo/chat-with-multiple-pdfs.git
+   git clone https://github.com/nathania-rachael/Chat-with-Multiple-PDFs.git
    cd chat-with-multiple-pdfs
    ```
 
